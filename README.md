@@ -14,10 +14,10 @@ Modular code structure for easy maintenance and extension
 
 ## Screenshots
 
-### API Documentation
+### Songle Text Translation
 ![API Documentation](app/Screenshot%202025-07-11%20005904.png)
 
-### Translation Example
+### Health Check
 ![Translation Example](app/Screenshot%202025-07-11%20010045.png)
 
 
