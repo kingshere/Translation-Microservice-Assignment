@@ -84,7 +84,7 @@ json
 {  "original_text": "hello",  "translated_text": "नमस्ते",  "target_language": "hi"}
 
 
-###3. Bulk Translation
+### 3. Bulk Translation
 Endpoint: POST /api/v1/translate/bulk
 
 Description: Translate multiple texts to the specified target language
