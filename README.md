@@ -9,6 +9,17 @@ Input validation and error handling
 Comprehensive logging of all translation requests to SQLite database
 Health check endpoint for monitoring service status
 Modular code structure for easy maintenance and extension
+
+
+
+## Screenshots
+
+### API Documentation
+![API Documentation](app/Screenshot%202025-07-11%20005904.png)
+
+### Translation Example
+![Translation Example](app/Screenshot%202025-07-11%20010045.png)
+
 Project Structure
 plaintext
 
