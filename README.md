@@ -16,21 +16,6 @@ Python: 3.8 or higher
 pip: Python package installer
 A working internet connection (for dependency installation)
 
-### Installation
-
-Clone the Repository:
-git clone https://github.com/<your-username>/kingshere-translation-microservice-assignment.git
-cd kingshere-translation-microservice-assignment
-
-
-Install Dependencies:
-pip install -r requirements.txt
-
-If you encounter permission issues:
-pip install --user -r requirements.txt
-
-
-
 ### Running the Service
 
 Start the FastAPI Server:
